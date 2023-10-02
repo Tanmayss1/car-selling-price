@@ -49,7 +49,7 @@ union all
 #9) # Count of Fuel_Type
 (select Fuel_Type,count(Fuel_Type) from cars.car_data cd where Fuel_Type ='Petrol')
 union 
-(select Fuel_Type,count(Fuel_Type) from cars.car_data cd where Fuel_Type ='Diesel')
+(select Fuel_Type,count(Fuel_Type) from cars.car_data cd where Fuel_Type ='Diesel');
 
 
 #10) # 		Manual		261
@@ -101,9 +101,24 @@ order by Total_Transmission_Vehicles desc;
 
 select max(Kms_Driven),Seller_Type  from cars.car_data cd where Seller_Type ='Dealer';
 
-
-
+#Alterntive
 select Seller_Type ,max(Kms_Driven) from 
 (
 select * from cars.car_data cd where Seller_Type = 'Dealer'
 ) as temp group by Seller_type;
+
+#16 Select seller type from 2014-2018, and aggregate the sum of selling price and present price by each year
+
+select year, Seller_Type, round(sum(Selling_Price),2) Total_S_Price, round(sum(Present_Price),2) Total_P_Price
+from cars.car_data 
+where Seller_Type = 'Dealer' and `year` between 2014 and 2018 group by year order by year;
+
+
+# Q17 Rank Based on Kms_Driven
+
+#1st method 
+select * from (select *, row_number() over(order by Kms_Driven desc) rn from cars.car_data )as car_data4 where rn=2;
+#2nd method
+select * from cars.car_data order by Kms_Driven desc limit 2,1;
+
+
