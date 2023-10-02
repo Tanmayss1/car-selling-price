@@ -1,0 +1,302 @@
+Owner,Car_Name,CNG_Available,HP,Top Speed,Seller_Type,Ground Clearance
+0,ritz,0,2737,192,Dealer,120
+0,sx4,0,1203,123,Dealer,133
+0,ciaz,1,861,176,Dealer,201
+0,wagon r,0,1378,218,Dealer,156
+0,swift,1,2367,131,Dealer,226
+0,vitara brezza,0,3183,246,Dealer,158
+0,ciaz,0,2796,147,Dealer,129
+0,s cross,1,831,259,Dealer,212
+0,ciaz,0,1479,124,Dealer,189
+0,ciaz,1,3358,157,Dealer,142
+0,alto 800,1,1952,124,Dealer,229
+0,ciaz,1,3245,206,Dealer,161
+0,ciaz,0,1117,189,Dealer,190
+0,ertiga,1,3046,209,Dealer,166
+0,dzire,1,1490,196,Dealer,126
+0,ertiga,0,990,162,Dealer,229
+0,ertiga,0,1664,195,Dealer,233
+0,ertiga,1,3343,150,Dealer,157
+0,wagon r,0,2485,204,Dealer,171
+0,sx4,0,2633,206,Dealer,162
+0,alto k10,1,3524,137,Dealer,218
+0,ignis,0,2549,157,Dealer,142
+0,sx4,0,826,193,Dealer,249
+0,alto k10,0,1200,156,Dealer,208
+0,wagon r,1,3125,244,Dealer,248
+0,swift,1,1711,191,Dealer,245
+0,swift,0,830,149,Dealer,180
+0,swift,0,1058,230,Individual,218
+0,alto k10,1,808,200,Dealer,215
+0,ciaz,0,2563,193,Dealer,166
+0,ritz,0,2479,131,Dealer,129
+0,ritz,0,1245,243,Dealer,230
+0,swift,1,2389,229,Dealer,220
+0,ertiga,1,1261,142,Dealer,171
+0,dzire,0,2160,134,Dealer,223
+0,sx4,1,2464,226,Dealer,169
+0,dzire,0,1824,189,Dealer,125
+0,800,1,2516,199,Individual,129
+0,alto k10,0,1438,135,Dealer,230
+0,sx4,1,1895,217,Dealer,154
+0,baleno,0,3092,168,Dealer,128
+0,alto k10,1,811,226,Dealer,138
+0,sx4,0,2335,253,Dealer,174
+0,dzire,0,1347,142,Dealer,211
+0,omni,0,1270,236,Dealer,120
+0,ciaz,1,1245,255,Dealer,189
+0,ritz,0,3021,164,Dealer,205
+0,wagon r,1,1698,169,Dealer,251
+0,ertiga,1,2675,206,Dealer,255
+0,ciaz,1,2708,138,Dealer,239
+0,fortuner,0,2717,229,Dealer,165
+0,fortuner,0,3515,128,Dealer,153
+0,innova,0,1553,143,Dealer,250
+0,fortuner,0,2053,149,Individual,239
+0,innova,1,1902,232,Individual,150
+0,corolla altis,1,2275,252,Dealer,200
+0,etios cross,1,2817,171,Dealer,157
+0,corolla altis,0,1141,153,Dealer,212
+1,etios g,0,2687,174,Dealer,175
+0,fortuner,0,2123,243,Dealer,145
+0,corolla altis,1,2691,209,Dealer,252
+0,etios cross,0,907,129,Dealer,234
+0,fortuner,0,2663,223,Dealer,206
+0,fortuner,1,2006,258,Dealer,211
+0,fortuner,1,2801,225,Dealer,124
+0,etios liva,1,2405,168,Dealer,184
+0,innova,1,1213,174,Dealer,198
+0,fortuner,0,1381,239,Dealer,204
+0,corolla altis,0,1566,197,Dealer,167
+0,corolla altis,1,2297,131,Dealer,183
+0,etios liva,1,2347,222,Dealer,224
+0,corolla altis,1,910,198,Dealer,244
+0,corolla altis,0,837,163,Dealer,238
+0,etios liva,1,2316,154,Dealer,225
+0,etios cross,0,2452,147,Dealer,124
+0,etios g,0,2415,188,Dealer,181
+0,corolla altis,1,1476,199,Dealer,194
+0,corolla,1,1190,238,Dealer,164
+0,corolla altis,0,1692,134,Dealer,217
+0,fortuner,1,2585,191,Dealer,129
+0,corolla altis,0,1585,140,Dealer,210
+0,etios gd,1,2839,246,Dealer,230
+0,innova,0,1208,170,Dealer,173
+0,innova,1,3349,174,Dealer,223
+0,innova,1,2447,231,Dealer,144
+3,camry,1,3524,211,Individual,121
+0,land cruiser,0,3134,141,Dealer,250
+0,corolla altis,1,2442,134,Dealer,128
+0,etios liva,1,1832,207,Dealer,133
+0,etios g,1,2695,173,Dealer,206
+0,corolla altis,0,2471,123,Dealer,165
+0,innova,1,3137,255,Dealer,126
+0,innova,0,2981,193,Dealer,222
+0,fortuner,1,2847,243,Dealer,236
+0,corolla altis,1,1898,140,Dealer,165
+0,corolla altis,0,2077,141,Dealer,169
+0,innova,0,2872,187,Dealer,235
+0,corolla altis,0,1061,188,Dealer,247
+0,corolla altis,0,2147,242,Dealer,165
+0,fortuner,0,2152,159,Dealer,196
+0,Royal Enfield Thunder 500,0,3549,145,Individual,205
+0,UM Renegade Mojave,0,3267,174,Individual,160
+0,KTM RC200,0,2460,208,Individual,179
+0,Bajaj Dominar 400,0,1248,146,Individual,223
+0,Royal Enfield Classic 350,1,3361,226,Individual,145
+0,KTM RC390,1,1442,187,Individual,178
+1,Hyosung GT250R,1,1722,251,Individual,197
+0,Royal Enfield Thunder 350,1,2715,177,Individual,163
+0,Royal Enfield Thunder 350,0,2317,203,Individual,227
+0,Royal Enfield Classic 350,0,1487,136,Individual,207
+0,KTM RC200,1,1379,257,Individual,182
+0,Royal Enfield Thunder 350,0,1188,133,Individual,170
+0,KTM 390 Duke ,1,3598,175,Individual,147
+0,Mahindra Mojo XT300,0,1128,240,Individual,179
+0,Royal Enfield Classic 350,0,2787,189,Individual,180
+0,Royal Enfield Classic 350,1,2193,136,Individual,153
+0,Royal Enfield Classic 350,0,2423,224,Individual,245
+0,Royal Enfield Thunder 500,0,849,183,Individual,242
+0,Royal Enfield Classic 350,1,2614,247,Individual,235
+0,Royal Enfield Thunder 500,1,1129,132,Individual,238
+0,Bajaj Pulsar RS200,1,3212,210,Individual,191
+0,Royal Enfield Thunder 350,0,3342,258,Individual,241
+0,Royal Enfield Bullet 350,1,2011,197,Individual,209
+0,Royal Enfield Classic 350,0,3185,204,Individual,182
+0,Royal Enfield Classic 500,1,2096,254,Individual,161
+0,Royal Enfield Classic 500,1,2276,138,Individual,234
+0,Bajaj Avenger 220,0,3309,253,Individual,248
+0,Bajaj Avenger 150,1,949,235,Individual,234
+0,Honda CB Hornet 160R,1,1196,226,Individual,253
+0,Yamaha FZ S V 2.0,1,890,171,Individual,213
+0,Honda CB Hornet 160R,0,964,178,Individual,140
+0,Yamaha FZ 16,1,2787,248,Individual,250
+0,Bajaj Avenger 220,0,3157,202,Individual,221
+0,Bajaj Avenger 220,1,2090,259,Individual,180
+0,TVS Apache RTR 160,1,2990,259,Individual,225
+0,Bajaj Pulsar 150,1,3555,120,Individual,185
+0,Honda CBR 150,1,1977,242,Individual,177
+0,Hero Extreme,1,2687,256,Individual,191
+0,Honda CB Hornet 160R,0,1260,232,Individual,200
+0,Bajaj Avenger 220 dtsi,1,3045,245,Individual,173
+0,Honda CBR 150,1,983,217,Individual,163
+0,Bajaj Avenger 150 street,0,2642,193,Individual,209
+0,Yamaha FZ  v 2.0,0,2399,141,Individual,191
+0,Yamaha FZ  v 2.0,0,2330,123,Individual,246
+0,Bajaj Pulsar  NS 200,1,2175,182,Individual,137
+0,TVS Apache RTR 160,1,1743,219,Individual,148
+0,Hero Extreme,0,2842,169,Individual,161
+0,Yamaha FZ S V 2.0,1,1729,152,Individual,244
+0,Bajaj Pulsar 220 F,1,1294,132,Individual,223
+0,Bajaj Pulsar 220 F,0,1034,205,Individual,152
+0,TVS Apache RTR 180,0,2493,129,Individual,145
+0,Hero Passion X pro,0,1598,230,Individual,124
+0,Bajaj Pulsar NS 200,0,3564,214,Individual,230
+0,Bajaj Pulsar NS 200,0,1822,237,Individual,199
+0,Yamaha Fazer ,1,2486,235,Individual,137
+0,Honda Activa 4G,0,1331,230,Individual,168
+0,TVS Sport ,0,1680,129,Individual,157
+0,Yamaha FZ S V 2.0,1,1875,219,Individual,248
+0,Honda Dream Yuga ,1,2231,165,Individual,166
+0,Honda Activa 4G,0,2166,228,Individual,149
+0,Bajaj Avenger Street 220,1,3473,180,Individual,233
+0,TVS Apache RTR 180,1,3438,246,Individual,223
+0,Bajaj Pulsar NS 200,1,3399,216,Individual,165
+0,Bajaj Avenger 220 dtsi,0,1502,160,Individual,142
+0,Hero Splender iSmart,0,1708,225,Individual,164
+0,Activa 3g,0,1230,133,Individual,231
+0,Hero Passion Pro,0,2953,224,Individual,232
+0,TVS Apache RTR 160,0,2221,186,Individual,190
+0,Honda CB Trigger,0,3299,137,Individual,255
+0,Hero Splender iSmart,0,2550,230,Individual,195
+0,Yamaha FZ S ,1,2065,252,Individual,206
+0,Hero Passion Pro,1,2367,228,Individual,168
+0,Bajaj Pulsar 135 LS,0,2293,213,Individual,240
+0,Activa 4g,1,2593,163,Individual,239
+0,Honda CB Unicorn,1,1584,229,Individual,168
+0,Hero Honda CBZ extreme,0,1345,196,Individual,239
+0,Honda Karizma,1,1647,187,Individual,211
+0,Honda Activa 125,0,926,140,Individual,145
+0,TVS Jupyter,1,2966,171,Individual,233
+0,Honda Karizma,1,1278,160,Individual,193
+0,Hero Honda Passion Pro,0,2226,191,Individual,153
+0,Hero Splender Plus,0,3435,236,Individual,158
+0,Honda CB Shine,0,923,223,Individual,167
+0,Bajaj Discover 100,1,2362,235,Individual,172
+1,Bajaj Pulsar 150,0,3408,216,Individual,149
+0,Suzuki Access 125,0,2400,200,Individual,123
+0,TVS Wego,0,1910,203,Individual,152
+0,Honda CB twister,1,859,201,Individual,165
+0,Hero Glamour,0,3160,249,Individual,151
+0,Hero Super Splendor,0,1812,150,Individual,233
+0,Bajaj Pulsar 150,1,1296,143,Individual,216
+1,Bajaj Discover 125,1,2865,210,Individual,129
+1,Hero Hunk,0,3294,239,Individual,124
+1,Hero  Ignitor Disc,0,2415,185,Individual,156
+0,Hero  CBZ Xtreme,1,1674,157,Individual,122
+0,Bajaj  ct 100,1,1987,227,Individual,140
+0,Activa 3g,0,1332,242,Individual,136
+0,Honda CB twister,0,1012,186,Individual,168
+1,Bajaj Discover 125,1,2622,232,Individual,172
+0,Honda CB Shine,1,2070,127,Individual,228
+0,Bajaj Pulsar 150,1,3517,234,Individual,147
+1,i20,0,2056,153,Dealer,188
+0,grand i10,1,2609,163,Dealer,175
+0,i10,0,1571,185,Dealer,182
+0,eon,1,1026,244,Dealer,170
+1,grand i10,0,3436,125,Dealer,185
+0,xcent,0,2021,161,Dealer,219
+0,grand i10,1,3316,174,Dealer,213
+0,i20,1,2921,148,Dealer,175
+0,grand i10,0,1505,257,Dealer,246
+0,i10,1,3443,192,Dealer,216
+0,elantra,1,1189,199,Dealer,233
+0,creta,1,1846,146,Dealer,150
+0,i20,1,3064,245,Dealer,166
+0,grand i10,0,1082,156,Dealer,158
+0,verna,0,2661,203,Dealer,181
+0,eon,0,1717,188,Dealer,254
+0,eon,0,1181,223,Dealer,140
+0,verna,1,980,126,Dealer,223
+0,verna,1,3355,165,Dealer,250
+0,eon,1,2832,175,Dealer,220
+0,i20,0,1622,232,Dealer,191
+0,i20,0,1194,121,Dealer,191
+0,verna,1,3225,216,Dealer,196
+0,verna,1,2109,225,Dealer,180
+0,i10,1,1616,148,Dealer,205
+0,grand i10,0,2358,126,Dealer,251
+0,i10,0,2948,128,Dealer,140
+0,verna,0,3429,155,Dealer,204
+0,i20,0,2265,192,Dealer,198
+0,verna,0,1246,256,Dealer,208
+0,verna,1,3472,183,Dealer,242
+0,elantra,0,3510,153,Dealer,127
+0,grand i10,0,2925,129,Dealer,208
+0,grand i10,0,860,242,Dealer,158
+0,verna,0,1639,150,Dealer,161
+0,eon,1,3503,127,Dealer,128
+0,creta,1,1212,188,Dealer,180
+0,verna,0,1121,226,Dealer,179
+0,eon,1,2846,172,Dealer,124
+0,verna,1,995,128,Dealer,138
+1,xcent,1,3454,207,Dealer,179
+0,xcent,0,1222,235,Dealer,229
+0,i20,1,3297,155,Dealer,184
+0,verna,0,2686,225,Dealer,150
+0,verna,1,3441,174,Dealer,251
+0,i20,0,1741,241,Dealer,174
+0,verna,1,819,203,Dealer,180
+0,i10,0,1800,233,Dealer,191
+0,i20,1,2269,224,Dealer,216
+0,creta,0,3335,158,Dealer,216
+0,city,0,1937,153,Dealer,220
+0,brio,1,1046,232,Dealer,206
+0,city,0,2811,155,Dealer,250
+0,city,1,1239,193,Dealer,157
+0,brio,1,1689,202,Dealer,181
+0,city,1,2202,159,Dealer,133
+0,city,0,2523,224,Dealer,223
+0,city,0,2689,202,Dealer,149
+0,amaze,0,891,241,Dealer,240
+0,city,0,3342,225,Dealer,172
+0,brio,1,2591,146,Dealer,221
+0,amaze,0,2043,176,Dealer,199
+0,jazz,1,2869,168,Dealer,136
+0,amaze,1,3198,227,Dealer,240
+0,jazz,1,2389,226,Dealer,186
+0,amaze,0,1754,195,Dealer,237
+0,city,1,2050,239,Dealer,187
+0,brio,1,3560,244,Dealer,209
+0,city,0,2069,229,Dealer,174
+0,city,0,2255,213,Dealer,156
+0,city,1,3412,168,Dealer,128
+0,city,0,1151,243,Dealer,247
+0,jazz,1,2570,250,Dealer,208
+0,brio,0,2641,128,Dealer,172
+0,city,1,3527,208,Dealer,242
+0,city,0,1859,134,Dealer,150
+0,city,0,1684,164,Dealer,129
+0,jazz,0,1963,188,Dealer,197
+0,city,0,3211,192,Dealer,237
+0,brio,1,1585,193,Dealer,214
+0,city,1,1380,160,Dealer,236
+0,city,0,1519,229,Dealer,148
+0,city,0,848,257,Dealer,231
+0,brio,0,1942,235,Dealer,243
+0,jazz,0,2935,252,Dealer,164
+0,jazz,0,2166,194,Dealer,227
+0,amaze,1,1323,255,Dealer,207
+0,city,0,1576,234,Dealer,183
+0,city,0,2837,195,Dealer,252
+0,amaze,0,1085,137,Dealer,133
+0,brio,1,3200,235,Dealer,143
+0,jazz,1,898,207,Dealer,194
+0,city,0,3147,137,Dealer,172
+0,amaze,0,1255,253,Dealer,184
+0,city,0,1636,199,Dealer,209
+0,city,1,2592,198,Dealer,230
+0,brio,0,2898,245,Dealer,191
+0,city,1,3297,150,Dealer,248
+0,city,1,2727,124,Dealer,176
+0,brio,1,3565,190,Dealer,120
